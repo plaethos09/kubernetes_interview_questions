@@ -2,7 +2,7 @@
 
 # ................... 288 Kubernetes Interview Questions  ....................
 
-## By  Mamun Rashid :: https://www.linkedin.com/in/mamunrashid/ 
+##
 
 ### Last Updated: 2023.02.05
 
